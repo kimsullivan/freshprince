@@ -1,0 +1,84 @@
+
+
+@import url(http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic);
+
+h1{
+	color: white;
+	font-weight: 400;
+	font-size: 75px;
+	letter-spacing: 1x;
+	line-height: 55px;
+	font-weight: 600;
+
+}
+
+html{
+	background: #C4534F;
+	font-family: 'Lato', sans-serif;
+	padding: 80px 250px;
+}
+
+body{
+	text-align: center;
+	font-family: 'Lato', sans-serif;
+	color: white;
+	font-size: 18px;
+	line-height: 32px;
+	font-weight: 300;
+	
+}
+
+ul{
+	margin: 55px 0 0 0;
+	text-transform: uppercase;
+	font-size: 14px;
+	letter-spacing: .1em;
+	font-weight: 600;
+	color: #602624;
+
+}
+
+li{
+	display: inline;
+	margin: 10px;
+}
+
+.dash {
+	font-weight: 200;
+	color: #ffffff;
+	opacity: .8;
+	margin: 5px;
+}
+
+a{
+	margin: 55px auto;
+	line-height: 30px;
+	width: 400px;
+	height: 30px;
+	padding: 20px;
+	font-size: 16px;
+	font-weight: 500;
+	border: 2px solid white;
+	display: block;
+	text-decoration: none;
+	color: white;
+	border-radius: 7px;
+	transition: background-color 0.5s ease;
+}
+
+a:hover{
+	background-color: white;
+	color: #C4534F;
+
+}
+
+
+
+
+
+
+
+
+
+
+
